@@ -533,7 +533,7 @@
 					"-framework",
 					"\"UIKit\"",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dd.weibo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.decentfox.WeiboDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "weibo/weibo-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -577,7 +577,7 @@
 					"-framework",
 					"\"UIKit\"",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dd.weibo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.decentfox.WeiboDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "weibo/weibo-Bridging-Header.h";
 			};
